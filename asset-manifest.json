@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/reactjs-Material-UI-Design/static/js/main.3a0ec898.chunk.js",
+    "main.js.map": "/reactjs-Material-UI-Design/static/js/main.3a0ec898.chunk.js.map",
+    "runtime-main.js": "/reactjs-Material-UI-Design/static/js/runtime-main.bb30f724.js",
+    "runtime-main.js.map": "/reactjs-Material-UI-Design/static/js/runtime-main.bb30f724.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/reactjs-Material-UI-Design/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.56cebf5a.chunk.js": "/reactjs-Material-UI-Design/static/js/2.56cebf5a.chunk.js",
+    "static/js/2.56cebf5a.chunk.js.map": "/reactjs-Material-UI-Design/static/js/2.56cebf5a.chunk.js.map",
+    "index.html": "/reactjs-Material-UI-Design/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/reactjs-Material-UI-Design/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.56cebf5a.chunk.js.LICENSE.txt": "/reactjs-Material-UI-Design/static/js/2.56cebf5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb30f724.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.56cebf5a.chunk.js",
+    "static/js/main.3a0ec898.chunk.js"
+  ]
+}
